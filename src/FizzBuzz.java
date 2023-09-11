@@ -7,6 +7,7 @@ class FizzBuzz {
 
 //        for (int i = 1; i < 100; i++) {
         int i = 1;
+        // Using a While loop
         while (i < 100) {
 
             // Find out which numbers divide i.
